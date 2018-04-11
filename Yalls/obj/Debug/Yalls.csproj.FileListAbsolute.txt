@@ -1,0 +1,9 @@
+C:\Users\mforv\YandexDisk\!Projects\Yalls\Yalls\bin\Debug\Yalls.exe.config
+C:\Users\mforv\YandexDisk\!Projects\Yalls\Yalls\bin\Debug\Yalls.exe
+C:\Users\mforv\YandexDisk\!Projects\Yalls\Yalls\bin\Debug\Yalls.pdb
+C:\Users\mforv\YandexDisk\!Projects\Yalls\Yalls\obj\Debug\Yalls.Properties.Resources.resources
+C:\Users\mforv\YandexDisk\!Projects\Yalls\Yalls\obj\Debug\Yalls.csproj.GenerateResource.Cache
+C:\Users\mforv\YandexDisk\!Projects\Yalls\Yalls\obj\Debug\Yalls.exe
+C:\Users\mforv\YandexDisk\!Projects\Yalls\Yalls\obj\Debug\Yalls.pdb
+C:\Users\mforv\YandexDisk\!Projects\Yalls\Yalls\obj\Debug\Yalls.csprojResolveAssemblyReference.cache
+C:\Users\mforv\YandexDisk\!Projects\Yalls\Yalls\obj\Debug\Yalls.Yalls.resources

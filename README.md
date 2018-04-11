@@ -1,2 +1,3 @@
 # Yalls
-Simple example of genetic algorithm
+It is a simple visual example of genetic algorithm written in C#.
+
